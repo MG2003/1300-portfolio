@@ -6,7 +6,7 @@ function App() {
       <div className = "p-12 flex flex-col">
         <div className = "text-3xl font-bold font-sans">Model Diagram</div>
         <div>
-          <img src = "./public/assets/diagrm.png"></img>
+          <img src = "./assets/diagrm.png"></img>
           <p className = "text-xl font-mono my-4">The CIT vending machine functions like most other vending machines at Brown University, featuring rows of snacks ID’d by a letter and a number. To operate, the user first pays the machine either with cash or, more popularly with credit/debit or flex points. To use the former they input cash into the compartment directly under the keypad. For the latter, they must access the swipe register located near the bottom of the machine. Following this, they can input a snack code using the keypad which has tactile buttons. Upon completion, their item is vended, if available.</p>
         </div>
         <div className = "text-3xl font-bold font-sans">Interviews</div>
@@ -72,39 +72,39 @@ function App() {
       </ol>
       <div className = "text-3xl font-bold font-sans">Personas</div>
       <div className = "grid grid-cols-2">
-        <img src = "./public/assets/persona1.png"></img>
-        <img src = "./public/assets/persona2.png"></img>
+        <img src = "./assets/persona1.png"></img>
+        <img src = "./assets/persona2.png"></img>
       </div>
       <div className = "text-3xl font-bold font-sans">Storyboard</div>
       <div className = "text-xl p-4 font-mono">For storyboarding, I selected Jon</div>
       <div className = "grid grid-cols-3">
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p1.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p1.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">Jon, deep in his work at 1:54AM in the CIT, decides he needs a break</div>
         </div>
 
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p2.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p2.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">He makes his way down to the CIT vending machine and looks at the options, trying to decide what he wants</div>
         </div>
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p3.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p3.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">He finally decides on some Cheez-its</div>
         </div>
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p4.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p4.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">Tired, Jon fumbles around with the swipe register a bit, frustrated by its height</div>
         </div>
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p5.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p5.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">After it goes through, he inputs the code for the cheez-its</div>
         </div>
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p6.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p6.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">He takes the cheez-its from the compartment, struggling a bit with the opening</div>
         </div>
         <div className = "border-2 border-[#222848] w-full p-2">
-          <img src = "./public/assets/p7.jpg" className = "w-full border-2"></img>
+          <img src = "./assets/p7.jpg" className = "w-full border-2"></img>
           <div className = "text-lg font-mono mt-2">Jon enjoys his snack</div>
         </div>
         
