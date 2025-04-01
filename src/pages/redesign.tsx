@@ -13,7 +13,7 @@ function Redesign(){
                 </div>
 
                 <div className = "text-5xl font-bold font-sans mb-5">Design Critiques</div>
-                    <div className = "grid md:grid-cols-2 grid-cols-1 gap-5 p-4">
+                    <div className = "grid md:grid-cols-2 grid-cols-1 gap-5 p-4 mb-5">
                         <div>
                             <div className = "text-3xl font-bold font-sans">Extremely long webpage</div>
                             <ul className = "flex flex-col gap-2 text-xl font-mono p-4 list-disc">
