@@ -87,7 +87,7 @@ function Redesign(){
                             </div>
 
                             
-                            <div className = "grid grid-cols-2 gap-2 mb-5">
+                            <div className = "grid md:grid-cols-2 grid-cols-1 gap-2 mb-5">
                                 <div>
                                     <div className = "text-3xl font-bold font-sans mb-5">Phone Mockup</div>
                                     <img src = "./responsive/phone-mockup.PNG" className = "border-[#222848] border-2"></img>
