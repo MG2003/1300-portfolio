@@ -76,7 +76,7 @@ function Redesign(){
                         <div className = "p-4">
                             <div className = "text-3xl font-bold font-sans mb-5">Visual Design Style Guide</div>
                             <img src = "./responsive/design2.png" className="border-[#222848] border-2"></img>
-                            <div className = "p-4 flex flex-col gap-2">
+                            <div className = "p-4 flex flex-col gap-2 mb-5">
                                 <div className = "text-2xl font-bold font-sans mb-2">Notes</div>
                                 <ul className = "gap-2 flex flex-col text-xl font-mono list-disc">
                                     <li>switched long repetitive blog pages with smaller cards with a preview image - justification because this content works better as individual pages</li>
