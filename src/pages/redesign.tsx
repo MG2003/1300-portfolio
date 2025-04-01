@@ -13,7 +13,7 @@ function Redesign(){
                 </div>
 
                 <div className = "text-5xl font-bold font-sans mb-5">Design Critiques</div>
-                    <div className = "grid grid-cols-2 gap-5 p-4">
+                    <div className = "grid md:grid-cols-2 grid-cols-1 gap-5 p-4">
                         <div>
                             <div className = "text-3xl font-bold font-sans">Extremely long webpage</div>
                             <ul className = "flex flex-col gap-2 text-xl font-mono p-4 list-disc">
@@ -99,11 +99,11 @@ function Redesign(){
                             </div>
                             <div className = "text-3xl font-bold font-sans my-5">Web Mockup</div>
                             <div className = "px-10 mx-auto mb-5">
-                                <img src = "./responsive/web-mockup.png" className = "border-[#222848] border-2 w-full"></img>
+                                <img src = "./responsive/web-mockup.png" className = "border-[#222848] border-2 w-full min-w-24"></img>
                             </div>
                             <div className = "text-3xl font-bold font-sans mb-5">Web Mockup(Wide responsive)</div>
                             <div className = "px-10 mx-auto">
-                                <img src = "./responsive/wide-mockup.png" className = "border-[#222848] border-2 w-full"></img>
+                                <img src = "./responsive/wide-mockup.png" className = "border-[#222848] border-2 w-full min-w-24"></img>
                             </div>
                             
                             <div className = "text-2xl font-bold font-sans my-5">Notes</div>
