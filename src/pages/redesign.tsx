@@ -4,11 +4,11 @@ function Redesign(){
              <div className = "text-8xl font-serif italic text-center">Responsive Redesign</div>
              <div className = "p-12 flex flex-col">
                 <div className = "text-5xl font-bold font-sans">Website of Choice</div>
-                <div className = "grid grid-cols-2 gap-5">
+                <div className = "grid md:grid-cols-2 grid-cols-1 gap-5">
                     <p className = "text-xl font-mono my-4">For this assignment, I decided to critique and develop a responsive redesign for <a href = "https://fork.dev/blog/" className = "underline font-bold text-blue-500">fork.dev/blog</a>, the development blog for git Fork.
                     It's a niche piece of software I have fond memories of, and in looking through the blog page I felt there were many concering issues in the design of the page that would be interesting to address.
                     </p>
-                    <img src = "./responsive/ss-1.png" className = "border-[#222848] border-2"></img>
+                    <img src = "./responsive/ss-1.png" className = "border-[#222848] border-2 min-w-40"></img>
 
                 </div>
 
